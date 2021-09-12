@@ -7,3 +7,5 @@
 <p> It has one player (you) and two AI players which one only guess the odd number and other one only guess the even number. </p>
 <p> If you want to play the games, download the project and then execute the <b>Main.java</b>. </p>
 <p> Feel free to enjoy your time. </p>
+<h1>Demo</h1>
+<video scr="https://youtu.be/UM7_GysSM7k" controls></video>
