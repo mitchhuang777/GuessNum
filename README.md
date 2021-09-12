@@ -8,4 +8,6 @@
 ###### If you want to play the games, download the project and then execute the **Main.java**.
 ###### Feel free to enjoy your time.
 # Demo
-###### [![Demo Vedio](https://i.imgur.com/5Ex4T6h.png)](https://www.youtube.com/watch?v=UM7_GysSM7k&t=5s&ab_channel=Mitch)
+###### The Demo Vedio.
+[![Demo Vedio](https://i.imgur.com/5Ex4T6h.png)](https://www.youtube.com/watch?v=UM7_GysSM7k&t=0s&ab_channel=Mitch)
+
